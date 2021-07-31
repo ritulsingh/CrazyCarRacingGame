@@ -1,6 +1,6 @@
 # CrazyCarRacingGame
 
-For this project our group(Me, Shashidhar or Rajesh) would like to implement a Crazy Car Racing Game based on HTML. 
+For this project our group(Me, Shashidhar and Rajesh) would like to implement a Crazy Car Racing Game based on HTML. 
 We tried to implement this game based on basic html5 and JavaScript and the objective of this 
 game is to survive as far as you can in order to achieve the highest score.
 In the growing field of Web based development and even more rapidly growing sector of 
